@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "jQuery": "^1.7.4",
     "socket.io": "^2.3.0"
   }
 }
